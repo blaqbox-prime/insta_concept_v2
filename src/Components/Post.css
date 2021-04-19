@@ -1,0 +1,24 @@
+.Post .counter{
+    font-weight: bold;
+    margin: 0 10px;
+}
+.post-image{
+    height: 400px;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+
+.card{
+    margin: 15px 0 0 0;
+    padding: 15px 0 0 0;
+}
+
+.user-detail>p{
+    line-height: 1rem;
+    margin-left: 10px;
+    margin-top: auto;
+    margin-bottom: auto;
+
+}

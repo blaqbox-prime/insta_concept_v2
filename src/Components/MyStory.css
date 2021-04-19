@@ -1,0 +1,23 @@
+.MyStory, .story-name{
+    justify-content: center;
+    text-align: center;
+}
+
+/* .MyStory{
+    margin-right: 50px;
+} */
+
+.title{
+    margin: 10px auto;
+}
+
+.avatar{
+    margin: 0 auto;
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+}
+
+.story-name{
+    margin: 15px auto;
+}

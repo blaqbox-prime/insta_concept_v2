@@ -1,0 +1,14 @@
+.Stories .avatar{
+    border: 2px solid #b94d3a;
+    height: 60px;
+    width: 60px;
+    padding: 3px;
+}
+
+.avatar img{
+    border-radius: 50%;
+}
+
+.Stories{
+    height: 80px;
+}
